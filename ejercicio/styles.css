@@ -1,0 +1,40 @@
+.formulario{
+    margin: 20px;
+    
+}
+.fondo{
+    margin-left: 500px;
+    width: 500px;
+    height: 300px;
+   border: 2rem red;
+   background-color: green;
+   color: white;
+}
+.clase_nombre{
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.clase_email{
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.clase_Telefono{
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.clase_País{
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.clase_numero{
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.clase_nombreDos{
+    border: 2px solid red;
+    border-radius: 30px;
+}
+.enviar{
+    border-top: 2px dashed white;
+    margin: 10px;
+}
